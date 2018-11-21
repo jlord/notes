@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Lora", "Georgia", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 18px/1.5 "Lora", "Georgia", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #505050;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -64,7 +64,7 @@ ul, ol {
 
 li > ul,
 li > ol {
-  margin-bottom: 0; }
+  margin-bottom: 15px; }
 
 /**
  * Headings
@@ -196,7 +196,7 @@ table {
   position: relative; }
 
 .site-title {
-  font-size: 34px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 50px;
   padding-top: 20px;
