@@ -10,14 +10,16 @@ categories: danish, old english, patterns, language
 
 I love learning about the history of English, especially Old English. A while ago I read [_Stories of English_](https://www.amazon.com/Stories-English-David-Crystal/dp/1585677191) and loved it so much that I have moved with it for a decade, across the Atlantic and twice across the US.
 
-Last year I started learning Danish (with the help of [Duolingo](https://www.duolingo.com/course/da/en/Learn-Danish-Online) and Danish friends) and it re-ignited my interest in Old English. So I've read more and am 80+ hours into The History of English podcast, which is incredible. The podcast is so throughly researched and presented!
+Last year I started learning Danish (with the help of [Duolingo](https://www.duolingo.com/course/da/en/Learn-Danish-Online) and Danish friends) and it re-ignited my interest in Old English. So I've read more and am 100+ hours into The History of English podcast, which is incredible. The podcast is so throughly researched and presented!
 
 Unexpectedly, Danish has come to make a lot more sense! Instead of thinking of it as learning a new word for everything there are now many words for which a pattern can be applied to transform it into a modern English word or the Danish word is the same or nearly so as a now lost Old English word.
 
 - 'sk' pairs in Old Norse became 'sh' in English so _skip_ became _ship_ (b's often became p's) and _vask_ became _wash_ (v's often became w's, think about _wine_ and _vin_)
 - Old English's _fugol_ for bird and _fugl_ in Danish; Old English's _hus_ for _house_ is still _hus_ in Danish.
 
-I love learning these patterns and the history behind all the changes in the language (though I do wish English had remained more Nordic/Germanic). Learning the history of these words is so fascinating! Here are some resources:
+I love learning these patterns and the history behind all the changes in the language (though I do wish English had remained more Nordic/Germanic). And I love to share random etymology facts!
+
+Here are some resources:
 
 - [_Stories of English_](https://www.amazon.com/Stories-English-David-Crystal/dp/1585677191), David Crystal
 - [_Our Magnificent Bastard Tongue_](https://www.amazon.com/Our-Magnificent-Bastard-Tongue-History/dp/1592404944), John McWhorter
